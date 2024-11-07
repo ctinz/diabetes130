@@ -388,15 +388,3 @@ My findings include:
     -   Of the key diagnoses, patients with congestive heart failure (CHF) seem to be the most concerning for readmission within 30 days. This diagnosis ranks the highest with 14.1% of patients in the sample readmitted within 30 days. With the statistical analysis, CHF diagnosis is also associated with the highest predicted probability of readmission within 30 days. The CHF diagnosis is suggested to increase length of stay somewhat (coefficient of 0.88). However, pneumonia was the diagnosis associated with longest length of stay both in the sample and the analysis.
 
     -   From the discharge dispositions, patients recommended to discharge "Home" (without services or further inpatient care) had the highest percentage and gross amount of readmission within 30 days.
-
-## References
-
-NEJM Catalyst. (2018). Hospital Readmissions Reduction Program (HRRP). Catalyst Carryover, 4(2). <https://doi.org/10.1056/CAT.18.0194>
-
-R Core Team. (2024). R: A language and environment for statistical computing [Software]. R Foundation for Statistical Computing. <https://www.r-project.org/>
-
-Wickham, H., François, R., Henry, L., & Müller, K. (2023). dplyr: A grammar of data manipulation (R package version 1.1.3) [Software]. <https://CRAN.R-project.org/package=dplyr>
-
-Zeileis, A., & Hothorn, T. (2002). Diagnostic checking in regression relationships. R News, 2(3), 7-10. <https://CRAN.R-project.org/doc/Rnews/>
-
-Ripley, B., & Venables, W. (2024). nnet: Feed-forward neural networks and multinomial log-linear models (R package version 7.3-19) [Software]. <https://CRAN.R-project.org/package=nnet>
